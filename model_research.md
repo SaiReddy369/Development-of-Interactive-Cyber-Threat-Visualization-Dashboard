@@ -6,13 +6,10 @@ The proposed system is grounded in the Visual Analytics research paradigm, which
 
 This research model aligns with human-in-the-loop intelligence systems, exploratory data analysis, and decision-support systems used in cybersecurity environments.
 
----
-
 2. Conceptual Research Model Overview
 
 The research model is designed as a multi-layer analytical pipeline, where each layer incrementally transforms raw cybersecurity data into actionable cyber threat intelligence. The core philosophy of the model is to transform raw cybersecurity events into interpretable and interactive visual knowledge that enables proactive threat detection and response.
 
----
 
 3. Layer-wise Deep Research Model Description
 
@@ -22,7 +19,6 @@ The objective of this layer is to acquire diverse and heterogeneous cybersecurit
 
 The research significance of this layer lies in addressing data heterogeneity, which is a major challenge in cybersecurity analytics. By consolidating multiple data sources, the system ensures a comprehensive threat view. The output of this layer is a unified raw cyber event repository.
 
----
 
 Layer 2: Data Preprocessing and Normalization Layer
 
@@ -30,7 +26,6 @@ The objective of this layer is to improve data quality and ensure consistency ac
 
 This layer is critical to research accuracy, as unreliable data can lead to incorrect threat interpretations. The output of this layer is a clean, normalized, and analysis-ready cybersecurity dataset.
 
----
 
 Layer 3: Exploratory Cyber Threat Analytics Layer
 
@@ -38,7 +33,6 @@ The objective of this layer is to discover hidden patterns, trends, correlations
 
 This layer bridges raw data processing and human cognition by enabling exploratory investigation rather than static rule-based analysis. The output is a set of analytical insights prepared for visualization.
 
----
 
 Layer 4: Visual Analytics and Interaction Layer
 
@@ -46,7 +40,6 @@ The objective of this layer is to transform analytical insights into intuitive a
 
 The human-centric design allows analysts to apply filters, perform drill-down analysis, and compare multiple dimensions interactively. This layer reduces cognitive overload and enhances situational awareness. The output is a collection of interactive threat intelligence visualizations.
 
----
 
 Layer 5: Integrated Dashboard and Decision Support Layer
 
@@ -54,13 +47,11 @@ The objective of this layer is to provide a unified and responsive environment f
 
 This layer converts visual insights into actionable intelligence by supporting vulnerability prioritization, attack trend identification, and proactive defense planning. The final output is a fully functional interactive cyber threat visualization dashboard.
 
----
 
 4. End-to-End Research Workflow
 
 The overall workflow of the research model follows a structured pipeline: cybersecurity data sources are processed through data cleaning and normalization, followed by exploratory threat analytics, interactive visual analytics, and finally decision-support through an integrated dashboard.
 
----
 
 5. Research Model Contributions and Innovations
 
