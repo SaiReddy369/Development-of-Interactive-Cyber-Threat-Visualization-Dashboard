@@ -1,9 +1,4 @@
-Below is the **same deep research content**, with **all hashtags and Markdown formatting removed**, rewritten in **plain academic text**.
-Content, meaning, and depth are unchanged.
-
----
-
-Title: Deep Research Model for Interactive Cyber Threat Visualization Dashboard
+ Deep Research Model for Interactive Cyber Threat Visualization Dashboard
 
 1. Research Paradigm and Foundation
 
